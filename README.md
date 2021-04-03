@@ -6,4 +6,5 @@ Ini tugas e-learning
 ![2](https://user-images.githubusercontent.com/81821406/113479861-8bca0580-94bb-11eb-9f5e-a1bcf3f557f6.JPG)
 
 # Use This Database
+import in phpMyAdmin
 https://www.mediafire.com/file/cpmhuza1yrbzque/penjualan_rumah.sql/file
